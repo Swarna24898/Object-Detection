@@ -8,9 +8,7 @@ b. Preprocess the dataset to ensure compatibility with the YOLO model.
 a. Train a YOLO model to detect and classify multiple objects, including soldiers, weapons, vehicles, and trenches.
 3. Real-Time Detection:
 a. Deploy the trained model to detect objects in real-time video feeds or images.
-4. Threat Classification:
-a. Classify detected objects as threats (e.g., weapons, enemy soldiers) or non-threats (e.g., civilians, friendly soldiers).
-5. Streamlit Integration:
+4. Streamlit Integration:
 a. Develop a user-friendly web interface for uploading images/videos and visualizing detection results.
-6. Performance Evaluation:
+5. Performance Evaluation:
 a. Evaluate the model's performance using metrics like precision, recall, and mean average precision (mAP).
